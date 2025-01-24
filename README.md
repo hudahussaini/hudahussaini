@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Blockchain, AI/ML iOS APP
+- 🌱 I’m currently learning SwiftUI
+- 👯 I’m looking to collaborate on AI/ML topics
+  
 <!--
 **hudahussaini/hudahussaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
